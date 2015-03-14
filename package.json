@@ -1,0 +1,26 @@
+{
+  "name": "usb2dyn",
+  "version": "1.0.2",
+  "description": "Node.js wrapper for Dynamixel 1.0 SDK",
+  "main": "usb2dyn.js",
+  "dependencies": {
+    "body-parser": "^1.12.0",
+    "express": "^4.12.0",
+    "ffi": "^1.2.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dynamixel",
+    "usb2dyn",
+    "node.js",
+    "ax-12a",
+    "sdk",
+    "sdk1.0",
+    "1.0"
+  ],
+  "author": "Joseph Romeo",
+  "license": "MIT"
+}
