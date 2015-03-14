@@ -1,6 +1,6 @@
 {
   "name": "usb2dyn",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Node.js wrapper for Dynamixel 1.0 SDK",
   "main": "usb2dyn.js",
   "dependencies": {
@@ -21,6 +21,10 @@
     "sdk1.0",
     "1.0"
   ],
-  "author": "Joseph Romeo",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jmromeo/usb2dyn.git"
+  },
+  "author": "Joseph Romeo"
 }
