@@ -5,8 +5,7 @@ Step 1
 ------
 
 Before you get started, you must first build and install the customized 
-DXL library. Note that I did not write the library, I only modified and
-added a few functions to make it easier to use through nodejs. 
+DXL library. 
 
 To install:
 
