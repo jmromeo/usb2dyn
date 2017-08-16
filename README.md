@@ -1,6 +1,6 @@
-#Getting Started
+# Getting Started
 
-##Step 1
+## Step 1
 
 Before you get started, you must first build and install the customized 
 DXL library. 
@@ -12,7 +12,7 @@ To install:
 3.  sudo make install
 
 
-##Step 2
+## Step 2
 
 Run the examples file (NOTE: the example file assumes that you have set
                        up 2 servos with ID 1 & 2)
@@ -20,6 +20,6 @@ Run the examples file (NOTE: the example file assumes that you have set
 1. cd examples/simple_express
 2. node simple_express.js 
 
-#NPM Library
+# NPM Library
 
 Here's a link to the npm library: [usb2dyn](https://www.npmjs.com/package/usb2dyn)
